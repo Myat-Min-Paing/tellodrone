@@ -60,17 +60,3 @@ Welcome to our Drone project, where we have integrated advanced features like fa
 3. Access the drone's control interface through the provided URL.
 
 Follow the on-screen instructions for face recognition, hand gesture control, and voice recognition.
-
-## Contributing
-
-If you would like to contribute to the project, please follow the guidelines outlined in [CONTRIBUTING.md](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-We would like to express our gratitude to all contributors and the open-source community for their invaluable support.
-
-Happy droning!
