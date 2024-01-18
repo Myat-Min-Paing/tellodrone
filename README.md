@@ -74,5 +74,3 @@ This project is licensed under the [MIT License](LICENSE).
 We would like to express our gratitude to all contributors and the open-source community for their invaluable support.
 
 Happy droning!
-
-*Your Project Team*
